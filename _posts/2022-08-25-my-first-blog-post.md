@@ -1,5 +1,5 @@
-This is a new file.
+
 ---
-title: "Welcome to my blog"
+title: "This is my first Blog post"
 date: 2022-08-25
 ---
